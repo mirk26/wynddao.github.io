@@ -1,7 +1,7 @@
 ---
 title: Litepaper
 nav_order: 1
-parent: papers
+parent: Papers
 ---
 
 # Wyndex Lite Paper
