@@ -1,0 +1,8 @@
+# General
+title: "Wynd Docs"
+description: "Wynd Docs and Papers"
+
+#Theming
+remote_theme: pmarsceill/just-the-docs
+color_scheme: "light"
+search_enabled: true
