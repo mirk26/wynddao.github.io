@@ -1,7 +1,9 @@
 ---
+layout: default
 title: Intro
 nav_order: 1
 has_children: true
+has_toc: false
 ---
 
 # Introducing Wynd DAO
@@ -10,4 +12,5 @@ TL;DR: **Wynd DAO will leverage blockchain protocols to protect and regenerate t
 
 TODO
 
-We will acheive this [through the following pilars](./pilars).
+
+[View pilars](./pilars){: .btn .btn-purple }
