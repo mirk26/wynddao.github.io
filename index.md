@@ -33,4 +33,4 @@ Wynd views itself as part of the [ReFi movement](https://je.mirror.xyz/S-dpms92h
 
 WYND strongly believes and is committed to build a better, healthy world with the current technology which is web native/scale; building infrastructure, tools and services around that to support and enhance the entire ecosystem. This enables everyone to have some learning and role to contribute for a better world as a whole rather than just limiting it to an individual's benefits. 
 
-[View Foundational Steps](./pilars){: .btn .btn-purple }
+[View Foundational Pilars](./pilars){: .btn .btn-purple }

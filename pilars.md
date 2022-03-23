@@ -26,3 +26,5 @@ Wynd DAO is a revolutionary approach to solve the climate problems. It will ache
 
 ![](./imgs/happy-koala-bear.jpeg)
 ([src](https://starecat.com/happy-koala-bear/))
+
+[View Roadmap](./roadmap){: .btn .btn-purple }
