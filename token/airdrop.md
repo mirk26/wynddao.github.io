@@ -47,3 +47,6 @@ in Keplr or a Ledger if you have the mnemonic.
 If you keys are held by a custodial solution, you may be out of luck and must discuss it with the custodian.
 And if you manage your keys with an uncommon solution, we cannot provide support, except to show how to import your
 mnemomic into another solution. 
+
+[Vesting Details](./vesting){: .btn .btn-purple }
+

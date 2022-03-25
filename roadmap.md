@@ -52,3 +52,5 @@ the common good, with the intention that the Wynd DAO can launch products that w
 
 We may also launch an NFT project in a future moment, but work will only begin once the main milestones have been acheived
 in order to allow us to focus on delivering the core value proposition of Wynd.
+
+[$WYND Tokenomics](./token){: .btn .btn-purple }
