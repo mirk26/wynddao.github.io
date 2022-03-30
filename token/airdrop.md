@@ -1,5 +1,5 @@
 ---
-title: Airdrop
+title: Fairdrop
 parent: WYND Token
 nav_order: 2
 has_children: false
@@ -28,7 +28,7 @@ take a full year until they can all be freely transferred and sold.
 
 ## Timing
 
-We will take snapshots of the relevant chains in early April and perform the calculations based on
+We took snapshots of the relevant chains on March 28, 2022. We will perform the calculations based on
 those values during the month of April. In mid to late April, we will release a site allowing you
 to view how many tokens will be allocated to your address. The acutal claim period will begin late April
 or early May. More exact dates will be posted as we progress on the preparations for launch.

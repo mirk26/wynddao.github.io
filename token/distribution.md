@@ -45,11 +45,14 @@ of the token supply and ideally the inflation rate should decrease over time. To
 decided to allow a maximum minting of 42 million $WYND per year. Note that this implies a reduced
 percentage every year as the supply increases.
 
-The minting will be controlled by a vote of the DAO and the actual tokens minted can be less than this number,
-but the $WYND contract will limit the total supply the DAO can mint to this formula. We alspo don't prescribe where
-the tokens go, but let the DAO decide on the distribution of these tokens, based on the future needs of the chain.
+The minting will be controlled by a vote of the Wynd Community DAO and the actual tokens minted 
+may well be less than this maximum, these numbers define the limits to minting hardcoded in the
+$WYND token contract.
+
+We also don't prescribe where the tokens go, but let the DAO decide on the distribution of these tokens,
+based on the future needs of the chain.
 Do we need more marketing or dev? Do we want to mint fewer this year with the potential to use them next year?
-This is up to the DAO to decide.
+This is up to the DAO to decide, based on the changing market and environment.
 
 You can view the increase of supply in this table.
 
