@@ -22,3 +22,5 @@ We accomplish this by providing real value to the Wynd DAO (governance backed by
 and by slowly increasing the liquidity via vesting rather than a huge dump of liquid tokens to start with. We also feel
 3-digit APRs are inherently unsustainable and the Wynd DAO will focus on longer-term incentives for HODLers not
 for yield farmers.
+
+[Token Distribution](./distribution){: .btn .btn-purple }
