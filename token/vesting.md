@@ -30,7 +30,7 @@ Up until the start date, the entire amount is vesting; after the end date, zero 
 periods, the number decreases linearly, so after 25% of the time between start and end, 25% of the tokens have vested
 (are unlocked).
 
-![](../imgs/VestingCurveLinear.png)
+![](../imgs/VestingCurveLinear.png){: height="640" }
 
 We believe the first 6 months are going to be pivotal for the protocol and prove the value of holding $WYND for the
 longer term, so we would like to vest a bit slower in the initial region. For that purpose, we plan to use
@@ -40,7 +40,7 @@ Basically the idea is we target 25% vested after 6 months. That means it increas
 6 months, and then a faster linear vesting for the next 6 months. After 25% of the time, only 12.5% will be vested, but
 after 75% of the time, 62.5% will have been vested.
 
-![](../imgs/VestingCurvePiecewiseLinear.png)
+![](../imgs/VestingCurvePiecewiseLinear.png){: height="640" }
 
 ## Vesting periods
 
