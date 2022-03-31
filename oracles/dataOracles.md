@@ -1,7 +1,7 @@
-**[WYND Environmental Data & Oracles Service]{.ul}**
+##[WYND Environmental Data & Oracles Service]{.ul}##
 
-WYND is committed to bring visibility to the environmental conditions at
-forefront by bringing the right data to measure the current state
+WYND is committed to bring visibility to the environmental conditions 
+by bringing the right data to measure the current state
 appropriately. In order to achieve this, WYND is actively building data
 services for fetching orbital (satellites) as well ground based data
 from communities, organisations and volunteers.
@@ -24,7 +24,7 @@ algorithms often stalls due to the challenge of incentivizing and
 rewarding continued interest and community development. The
 inconsistency of funding often precipitates the breakdown of
 relationships between data users and providers due to funding
-constraints, which eventually renders data sets and data platforms
+constraints, which eventually renders data sets
 obsolete to operational management decisions and environmental action.
 
 WYND data services is founded on the following tenants:
@@ -44,7 +44,7 @@ conservation and business applications focused on ecological health, as
 well as turbo-charging research and analysis to advance the state of the
 art.
 
-**Open Data**
+###Open Data###
 
 **One essential aspect of this project is that all source data is
 open.** This ensures we don't end up like another Microsoft Earth, a
@@ -69,7 +69,7 @@ To provide a viable revenue stream for all data providers, we focus on
 value-added products on top of the data. Other teams can build products
 directly on the basic data for free, or pay to use these extensions.
 
-> **Data Value Enrichment**
+> ###Data Value Enrichment###
 
 WYND will collect user specific data and other open data sources and
 perform the process of Extracting, Transforming and Loading data on base
@@ -87,20 +87,20 @@ for innovation, and which will evolve as observing techniques and
 algorithms advance. Still, innovation will be contained within 3 basic
 categories for descriptors and metrics of ecosystem health:
 
-1)  Carbon / Living Biomass: these metrics describe the total mass of
+1.  Carbon / Living Biomass: these metrics describe the total mass of
     > living organisms in an area or region, and can be associated with
     > carbon stored in living plants.
 
-2)  Biodiversity: these metrics represent the characterization of the
+2.  Biodiversity: these metrics represent the characterization of the
     > breadth of the varied species within a region or ecosystem,
     > including plant, animal, fungal, and microbial classifications.
 
-3)  Degree of human intrusion: these metrics represent objective
+3.  Degree of human intrusion: these metrics represent objective
     > measures of human presence and landscape alteration, and include
     > variables such as mining, logging, agricultural density and type,
     > road density, human population density and nighttime lights.
 
-4)  Pollution: these metrics describe the degree of toxicity (i.e. the
+4.  Pollution: these metrics describe the degree of toxicity (i.e. the
     > ability to cause harmful effects over long periods), of the air,
     > water, or soil, often associated with foreign chemical
     > contamination.
@@ -119,62 +119,3 @@ these metrics could evolve independently or in sequence but may not be
 temporally or spatially correlated.
 
 ---\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\-\--
-
-Here is a brief overview of the oracle service built by the WYND team
-for building a DeFi dapp on real world data, and winning the Cosmos
-Hack-Atom hackathon sponsored by stake fish grant.
-
-**WYND Data Source :**
-
-Primary data source used by WYND is air quality data from the European
-Space Agency's satellite **Sentinel-5P**( [[Emissions
-API]{.ul}](https://emissions-api.org/)).
-
-**Why emissions-api data?**
-
-Quoting Emissions API -
-
-*"Emissions API's mission is to provide easy access to this data without
-the need of being an expert in satellite data analysis and without
-having to process terabytes of data yourself."*
-
-**Data Definition :**
-
-What is the data we are fetching from Sentinel-5P :
-
-Air Quality Data includes - ***methane, carbon monoxide, ozone, nitrogen
-dioxide***
-
-Except Ozone all data is available from Jan 1 2019 and except nitrogen
-dioxide others are updated on a daily basis. Exact time of the update
-depends upon the location you are fetching for and the satellite
-position.
-
-![](vertopal_26bf59983aed4e6c9148945c05e0904e/media/image1.gif){width="6.267716535433071in"
-height="4.694444444444445in"}
-
-**Off chain Data - On chain Data :**
-
-This section describes what data lives off chain and what's being put on
-chain for blockchain contracts.
-
-Since our source data APIs come under public APIs there is no point of
-trustlessness of data as anyone can fetch and validate the data being
-used on-chain by contracts via oracle service. While the raw data source
-is an off chain component the oracle script (which acts as a smart
-contract on any host chain like Ethereum, Juno, Solana, Polygon) is
-responsible for bringing that data securely to the requesting smart
-contract.
-
-**Data Flow Steps :**
-
-Data flow starts with the request to fetch raw data source for a given
-product like methane, ozone etc. along with other specifications like
-location(lat,long), time duration etc.
-
-This step is followed by a data aggregation and normalisation phase
-which compiles the data point as a final result. This final result is
-what the oracle script sends to the requesting smart contract.
-
-![](vertopal_26bf59983aed4e6c9148945c05e0904e/media/image2.jpg){width="6.267716535433071in"
-height="1.3611111111111112in"}
