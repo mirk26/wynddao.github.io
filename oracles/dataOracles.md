@@ -1,4 +1,11 @@
-##WYND Environmental Data & Oracles Service##
+---
+title: Environmental Data & Oracles Service
+parent: Environmental Oracles
+nav_order: 1
+has_children: false
+has_toc: false
+---
+## WYND Environmental Data & Oracles Service
 
 WYND is committed to bring visibility to the environmental conditions 
 by bringing the right data to measure the current state
@@ -44,7 +51,7 @@ conservation and business applications focused on ecological health, as
 well as turbo-charging research and analysis to advance the state of the
 art.
 
-###Open Data###
+### Open Data
 
 **One essential aspect of this project is that all source data is
 open.** This ensures we don't end up like another Microsoft Earth, a
@@ -69,7 +76,7 @@ To provide a viable revenue stream for all data providers, we focus on
 value-added products on top of the data. Other teams can build products
 directly on the basic data for free, or pay to use these extensions.
 
-> ###Data Value Enrichment###
+### Data Value Enrichment###
 
 WYND will collect user specific data and other open data sources and
 perform the process of Extracting, Transforming and Loading data on base
