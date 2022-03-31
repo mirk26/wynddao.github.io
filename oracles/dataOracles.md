@@ -94,20 +94,24 @@ for innovation, and which will evolve as observing techniques and
 algorithms advance. Still, innovation will be contained within 3 basic
 categories for descriptors and metrics of ecosystem health:
 
-1.  Carbon / Living Biomass: these metrics describe the total mass of
+1.  **Carbon / Living Biomass:** 
+    > These metrics describe the total mass of
     > living organisms in an area or region, and can be associated with
     > carbon stored in living plants.
 
-2.  Biodiversity: these metrics represent the characterization of the
+2.  **Biodiversity:** 
+    > These metrics represent the characterization of the
     > breadth of the varied species within a region or ecosystem,
     > including plant, animal, fungal, and microbial classifications.
 
-3.  Degree of human intrusion: these metrics represent objective
+3.  **Degree of human intrusion:** 
+    > These metrics represent objective
     > measures of human presence and landscape alteration, and include
     > variables such as mining, logging, agricultural density and type,
     > road density, human population density and nighttime lights.
 
-4.  Pollution: these metrics describe the degree of toxicity (i.e. the
+4.  **Pollution:**
+    > These metrics describe the degree of toxicity (i.e. the
     > ability to cause harmful effects over long periods), of the air,
     > water, or soil, often associated with foreign chemical
     > contamination.
