@@ -1,4 +1,4 @@
-##[WYND Environmental Data & Oracles Service]{.ul}##
+##WYND Environmental Data & Oracles Service##
 
 WYND is committed to bring visibility to the environmental conditions 
 by bringing the right data to measure the current state
