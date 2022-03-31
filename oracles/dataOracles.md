@@ -76,7 +76,7 @@ To provide a viable revenue stream for all data providers, we focus on
 value-added products on top of the data. Other teams can build products
 directly on the basic data for free, or pay to use these extensions.
 
-### Data Value Enrichment###
+### Data Value Enrichment
 
 WYND will collect user specific data and other open data sources and
 perform the process of Extracting, Transforming and Loading data on base
