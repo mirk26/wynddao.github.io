@@ -6,7 +6,7 @@ parent: Intro
 
 # Wynd DAO Pillars
 
-Wynd DAO is a revolutionary approach to solve the climate problems. It will acheive the [vision](/) via 4 main pillars:
+Wynd DAO is a revolutionary approach to solve the climate problems. It will achieve the [vision](/) via 4 main pillars:
 
 1. Instead of relying upon agencies and carbon credit organizations bringing in months old data for the state of our planet, WYND is using satellite data for bringing in near real time data about gases like – carbon-monoxide, sulphur, etc. This brings more awareness and visibility on the state of any person's surrounding state of environment, and allows us to offer incentives based on _real, measurable impact_. For now, only AIR quality is being targeted but plans to include WATER and Soil (EARTH) current state also is planned & possible. WYND is targeting to build a set of crucial environmental data oracle services and hence enabling other dapps too to build products and services based on the real world data.
 
